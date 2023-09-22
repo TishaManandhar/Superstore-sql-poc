@@ -1,4 +1,4 @@
-#Title :SQL injection
+#Title :SQL injection in superstore finder's search bar.
 #Researcher : Tisha Manandhar
 #Vendor : Joe Iz, https://superstorefinder.net/
 #Script Demo Url : https://superstorefinder.net/products/superstorefinder/admin/stores.php
